@@ -6,7 +6,6 @@
   <br>
 Proyecto final de la asignatura <b>Desarrollo de Servicios de Comunicación en Red</b>
 <br>
-<span><img src="imgs/coded.svg" alt="coded">  <img src="imgs/gluten.svg" alt="gluten"></span> 
 <br>
 <a href="https://github.com/lassa97"><b>Fermin Lassa</b></a> y <a href="https://github.com/mariaove"><b>Maria Ovejero</b></a>
 </p>
